@@ -1,0 +1,12 @@
+--- lightningv08/lb-7-776-rogii-ridge-sp
+lightningv08/lb-7-776-rogii-ridge-sp: 7.776
+--- needless090/lb-8-860-rogii-sel15-256seeds
+needless090/lb-8-860-rogii-sel15-256seeds: 8.86
+--- nihilisticneuralnet/9-251-rogii-wellbore-geology-prediction-dwt-based
+nihilisticneuralnet/9-251-rogii-wellbore-geology-prediction-dwt-based: 9.251
+--- tasmim/lb-9-259-rogii-wellbore-geology-prediction
+tasmim/lb-9-259-rogii-wellbore-geology-prediction: 9.259
+--- romantamrazov/rogii-better-solution-lb-9-956
+romantamrazov/rogii-better-solution-lb-9-956: 9.934
+--- cdeotte/xgb-starter-cv-15
+cdeotte/xgb-starter-cv-15: 14.336

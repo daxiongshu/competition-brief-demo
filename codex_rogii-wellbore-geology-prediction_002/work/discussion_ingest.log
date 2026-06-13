@@ -1,0 +1,264 @@
+Fetching discussions for competition: rogii-wellbore-geology-prediction
+  sort-by=votes, max-pages=4
+Fetched 90 discussions from Kaggle API
+Fetching comments per discussion...
+  Failed #697418: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #698825: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #697406: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #699853: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #700424: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #697431: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #697416: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #699289: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #698449: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #699326: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #698002: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #701041: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #702131: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #698282: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #707695: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #702474: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #703344: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #697400: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #699207: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #701691: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #704273: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #705210: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #694973: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #698925: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #701034: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #697329: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #701995: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #704663: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #699883: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #702919: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #707613: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #700340: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #704588: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #704800: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #699528: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #704881: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #697433: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #704839: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #704771: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #700871: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #698860: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #703883: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #703038: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #697552: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #697300: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #700285: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #702449: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #700827: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #703181: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #703830: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #703867: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+  Failed #702539: Kaggle discussion service call failed after 3 retries: Client 
+error '429 Too Many Requests' for url 
+'https://www.kaggle.com/api/i/discussions.DiscussionsService/GetForumTopicById'
+For more information check: 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429

@@ -1,0 +1,4 @@
+READ lightningv08/lb-7-776-rogii-ridge-sp
+/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+131242 /nvidia-kaggle/demo/competition-intel-briefing/runs/codex_rogii-wellbore-geology-prediction_002/work/read_lightningv08__lb-7-776-rogii-ridge-sp.md
