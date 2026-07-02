@@ -125,13 +125,35 @@
   code { background: #eef2f4; padding: 1px 5px; border-radius: 5px; font-size: 0.92em; }
   .badge-row { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0 0; }
   .badge { font-size: 12px; background: #eef7fb; color: #157aa6; border-radius: 999px; padding: 4px 12px; font-weight: 600; }
+  .banner { width: 100%; line-height: 0; background: #0b1318; }
+  .banner img { width: 100%; height: clamp(160px, 32vw, 380px); object-fit: cover; object-position: center 45%; display: block; }
+  .tool-strip {
+    background: #0b3d0f; color: #eafbe6;
+    font-size: 13.5px; text-align: center;
+    padding: 10px 16px;
+  }
+  .tool-strip a {
+    color: #d4ffb3; font-weight: 700; text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .tool-strip .gh-icon { vertical-align: -2px; margin-right: 4px; }
 </style>
 </head>
 <body>
 
+<div class="tool-strip">
+  <span class="gh-icon">⭐</span>Generated end-to-end by the open-source
+  <a href="https://github.com/NVIDIA/nvidia-kaggle" target="_blank" rel="noopener">NVIDIA Kaggle Skill</a>
+  — clone it, star it, and point your own agent at any Kaggle competition.
+</div>
+
+<div class="banner">
+  <img src="assets/banner.png" alt="NeuroGolf 2026 — an ONNX computation graph arcing a golf shot onto an ARC-AGI grid green">
+</div>
+
 <header class="hero">
   <div class="wrap">
-    <div class="eyebrow">Kaggle Competition Intelligence · NVIDIA Kaggle Skill</div>
+    <div class="eyebrow">Kaggle Competition Intelligence · <a href="https://github.com/NVIDIA/nvidia-kaggle" target="_blank" rel="noopener" style="color:inherit; text-decoration: underline;">NVIDIA Kaggle Skill</a></div>
     <h1 class="title">NeuroGolf 2026 — A Network Synthesis Challenge</h1>
     <p class="subtitle">Build the smallest possible neural network (as an ONNX graph) that solves each of 400 ARC‑AGI
     puzzles. Featured in the IJCAI‑ECAI 2026 Competition Track, hosted by Michael D. Moffitt. This report synthesizes
