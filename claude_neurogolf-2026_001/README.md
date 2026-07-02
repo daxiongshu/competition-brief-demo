@@ -24,6 +24,9 @@ plots) applied freely.
 ## Output
 
 - [`neurogolf_2026_report.html`](./neurogolf_2026_report.html) — the final report (open in a browser).
+- [`trace.html`](./trace.html) — self-contained, read-only viewer of the full agent session that
+  produced the report (every prompt, tool call, and tool result, including the mid-run "html format"
+  follow-up and the GitHub Pages debugging that came after).
 
 ## Time
 
