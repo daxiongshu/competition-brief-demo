@@ -1,0 +1,9 @@
+# runtime=claude  competition=neurogolf-2026  prompt_variant=natural (interactive, 2 turns)
+# --- TASK (verbatim user prompts) ---
+
+[turn 1]
+use agent skill in /nvidia-kaggle to create a beautiful and informative report of https://www.kaggle.com/competitions/neurogolf-2026
+cover recent top discussions and kernels.
+
+[turn 2, sent mid-task]
+html format
