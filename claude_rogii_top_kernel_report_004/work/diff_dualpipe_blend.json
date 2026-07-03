@@ -1,0 +1,32 @@
+[
+  {
+    "version": 1,
+    "score": "7.519",
+    "codehash": "f3ca8f6b27",
+    "vs_prev": "\u2014",
+    "added": 0,
+    "removed": 0,
+    "nbytes": 109512,
+    "kind": "py"
+  },
+  {
+    "version": 2,
+    "score": "7.560",
+    "codehash": "98b94e20fd",
+    "vs_prev": "CHANGED",
+    "added": 43,
+    "removed": 0,
+    "nbytes": 112033,
+    "kind": "py"
+  },
+  {
+    "version": 3,
+    "score": "7.559",
+    "codehash": "10cc77ca27",
+    "vs_prev": "CHANGED",
+    "added": 62,
+    "removed": 88,
+    "nbytes": 110821,
+    "kind": "ipynb"
+  }
+]

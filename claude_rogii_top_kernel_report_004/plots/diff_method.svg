@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" font-family="DejaVu Sans, Arial, sans-serif">
+<rect width="1000" height="470" fill="#fcfcfb"/>
+<text x="40" y="42" font-size="21" font-weight="700" fill="#0b0b0b">Telling a real edit from an identical rerun</text>
+<text x="40" y="66" font-size="13.5" fill="#52514e">Kaggle keeps every notebook version but never shows a diff. This is the pipeline behind every &#8220;identical / changed&#8221; label in this report.</text>
+<defs><marker id="a2" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#52514e"/></marker></defs>
+<rect x="40.0" y="128" width="190" height="88" rx="10" fill="#ffffff" stroke="#2a78d6" stroke-width="2"/>
+<rect x="40.0" y="128" width="6" height="88" rx="3" fill="#2a78d6"/>
+<text x="60.0" y="156" font-size="13.5" font-weight="700" fill="#0b0b0b">1  Pull each version</text>
+<text x="60.0" y="178" font-size="11.5" fill="#52514e" font-family="monospace">kernel_archive.py</text>
+<text x="60.0" y="195" font-size="11.5" fill="#52514e" font-family="monospace">--version N</text>
+<line x1="234.0" y1="172.0" x2="277.33333333333337" y2="172.0" stroke="#52514e" stroke-width="2" marker-end="url(#a2)"/>
+<rect x="283.33333333333337" y="128" width="190" height="88" rx="10" fill="#ffffff" stroke="#1baf7a" stroke-width="2"/>
+<rect x="283.33333333333337" y="128" width="6" height="88" rx="3" fill="#1baf7a"/>
+<text x="303.33333333333337" y="156" font-size="13.5" font-weight="700" fill="#0b0b0b">2  Keep code only</text>
+<text x="303.33333333333337" y="178" font-size="11.5" fill="#52514e" font-family="monospace">drop outputs &amp;</text>
+<text x="303.33333333333337" y="195" font-size="11.5" fill="#52514e" font-family="monospace">execution counts</text>
+<line x1="477.33333333333337" y1="172.0" x2="520.6666666666667" y2="172.0" stroke="#52514e" stroke-width="2" marker-end="url(#a2)"/>
+<rect x="526.6666666666667" y="128" width="190" height="88" rx="10" fill="#ffffff" stroke="#4a3aa7" stroke-width="2"/>
+<rect x="526.6666666666667" y="128" width="6" height="88" rx="3" fill="#4a3aa7"/>
+<text x="546.6666666666667" y="156" font-size="13.5" font-weight="700" fill="#0b0b0b">3  Normalize</text>
+<text x="546.6666666666667" y="178" font-size="11.5" fill="#52514e" font-family="monospace">strip trailing ws,</text>
+<text x="546.6666666666667" y="195" font-size="11.5" fill="#52514e" font-family="monospace">blank lines</text>
+<line x1="720.6666666666667" y1="172.0" x2="764.0" y2="172.0" stroke="#52514e" stroke-width="2" marker-end="url(#a2)"/>
+<rect x="770.0" y="128" width="190" height="88" rx="10" fill="#ffffff" stroke="#eb6834" stroke-width="2"/>
+<rect x="770.0" y="128" width="6" height="88" rx="3" fill="#eb6834"/>
+<text x="790.0" y="156" font-size="13.5" font-weight="700" fill="#0b0b0b">4  Hash + diff</text>
+<text x="790.0" y="178" font-size="11.5" fill="#52514e" font-family="monospace">SHA-256 &amp;</text>
+<text x="790.0" y="195" font-size="11.5" fill="#52514e" font-family="monospace">unified diff</text>
+<line x1="865.0" y1="216" x2="865.0" y2="294" stroke="#52514e" stroke-width="2"/>
+<rect x="250" y="300" width="300" height="92" rx="10" fill="#fdeef4" stroke="#e87ba4" stroke-width="2"/>
+<text x="268" y="327" font-size="13.5" font-weight="700" fill="#0b0b0b">same hash  =  IDENTICAL rerun</text>
+<text x="268" y="350" font-size="11.5" fill="#52514e">score change is pure run-to-run</text>
+<text x="268" y="368" font-size="11.5" fill="#52514e">noise &#8212; e.g. DWT 4 versions, one hash,</text>
+<text x="268" y="386" font-size="11.5" fill="#e34948" font-weight="700">LB 9.251 to 9.632 (0.38 spread)</text>
+<rect x="660" y="300" width="300" height="92" rx="10" fill="#eaf2fd" stroke="#2a78d6" stroke-width="2"/>
+<text x="678" y="327" font-size="13.5" font-weight="700" fill="#0b0b0b">diff &gt; 0  =  real CHANGE</text>
+<text x="678" y="350" font-size="11.5" fill="#52514e">count added / removed lines,</text>
+<text x="678" y="368" font-size="11.5" fill="#52514e">read the actual edit &#8212; e.g. XGB&#8217;s</text>
+<text x="678" y="386" font-size="11.5" fill="#2a78d6" font-weight="700">4-line baseline swap: 19.05 to 14.34</text>
+<path d="M865.0,294 L400,294" stroke="#e87ba4" stroke-width="2" fill="none"/>
+<path d="M865.0,294 L810,294" stroke="#2a78d6" stroke-width="2" fill="none"/>
+<line x1="400" y1="294" x2="400" y2="300" stroke="#e87ba4" stroke-width="2" marker-end="url(#a2)"/>
+<line x1="810" y1="294" x2="810" y2="300" stroke="#2a78d6" stroke-width="2" marker-end="url(#a2)"/>
+</svg>

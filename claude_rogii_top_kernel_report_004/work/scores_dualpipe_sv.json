@@ -1,0 +1,22 @@
+{
+  "owner_slug": "lightningv08",
+  "kernel_slug": "rogii-dual-pipeline-self-verifying",
+  "versions": [
+    {
+      "version_number": 1,
+      "title": "ROGII Dual Pipeline + Self-Verifying",
+      "status": "COMPLETE",
+      "date_created": "2026-06-10T12:51:38.117Z",
+      "public_lb": "7.470",
+      "public_lb_numeric": 7.47
+    },
+    {
+      "version_number": 2,
+      "title": "rogii_dual_pipeline_blend",
+      "status": "ERROR",
+      "date_created": "2026-06-12T20:56:27.010Z",
+      "public_lb": "7.559",
+      "public_lb_numeric": 7.559
+    }
+  ]
+}

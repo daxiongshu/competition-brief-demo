@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "dwt": {
+      "title": "9.251 ROGII DWT-based",
+      "owner": "nihilisticneuralnet",
+      "slug": "9-251-rogii-wellbore-geology-prediction-dwt-based",
+      "votes": 645
+    },
+    "rebuild7295": {
+      "title": "ROGII LB7295 Public Rebuild",
+      "owner": "bernubritz",
+      "slug": "rogii-lb7295-public-rebuild",
+      "votes": 442
+    },
+    "dualpipe_sv": {
+      "title": "ROGII Dual Pipeline + Self-Verifying",
+      "owner": "lightningv08",
+      "slug": "rogii-dual-pipeline-self-verifying",
+      "votes": 281
+    },
+    "ridge": {
+      "title": "Wellbore Geology Prediction | Ridge",
+      "owner": "ravaghi",
+      "slug": "wellbore-geology-prediction-ridge",
+      "votes": 260
+    },
+    "dualpipe_blend": {
+      "title": "rogii_dual_pipeline_blend",
+      "owner": "pixiux",
+      "slug": "rogii-dual-pipeline-blend",
+      "votes": 229
+    },
+    "pilkwang_geo": {
+      "title": "ROGII Target-Free TVT Geosteering",
+      "owner": "pilkwang",
+      "slug": "rogii-target-free-tvt-geosteering",
+      "votes": 213
+    },
+    "degnon7159": {
+      "title": "Public Score ROGII [LB: 7.159]",
+      "owner": "degnonguidi",
+      "slug": "public-score-rogii-lb-7-159",
+      "votes": 200
+    },
+    "xgb_starter": {
+      "title": "XGB Starter - [CV 15]",
+      "owner": "cdeotte",
+      "slug": "xgb-starter-cv-15",
+      "votes": 190
+    }
+  },
+  "diff": {
+    "dualpipe_sv": [
+      {
+        "version": 1,
+        "score": "7.470",
+        "codehash": "10cc77ca27",
+        "vs_prev": "\u2014",
+        "added": 0,
+        "removed": 0,
+        "nbytes": 110821,
+        "kind": "ipynb"
+      },
+      {
+        "version": 2,
+        "score": "7.559",
+        "codehash": "c6d006ec83",
+        "vs_prev": "CHANGED",
+        "added": 101,
+        "removed": 33,
+        "nbytes": 113878,
+        "kind": "ipynb"
+      }
+    ],
+    "dualpipe_blend": [
+      {
+        "version": 1,
+        "score": "7.519",
+        "codehash": "f3ca8f6b27",
+        "vs_prev": "\u2014",
+        "added": 0,
+        "removed": 0,
+        "nbytes": 109512,
+        "kind": "py"
+      },
+      {
+        "version": 2,
+        "score": "7.560",
+        "codehash": "98b94e20fd",
+        "vs_prev": "CHANGED",
+        "added": 43,
+        "removed": 0,
+        "nbytes": 112033,
+        "kind": "py"
+      },
+      {
+        "version": 3,
+        "score": "7.559",
+        "codehash": "10cc77ca27",
+        "vs_prev": "CHANGED",
+        "added": 62,
+        "removed": 88,
+        "nbytes": 110821,
+        "kind": "ipynb"
+      }
+    ],
+    "rebuild7295": [
+      {
+        "version": 1,
+        "score": "7.153",
+        "codehash": "d5539a029f",
+        "vs_prev": "\u2014",
+        "added": 0,
+        "removed": 0,
+        "nbytes": 145525,
+        "kind": "ipynb"
+      },
+      {
+        "version": 3,
+        "score": "7.302",
+        "codehash": "d5539a029f",
+        "vs_prev": "IDENTICAL rerun",
+        "added": 0,
+        "removed": 0,
+        "nbytes": 145525,
+        "kind": "ipynb"
+      }
+    ],
+    "ridge": [
+      {
+        "version": 1,
+        "score": "8.129",
+        "codehash": "3f09d191a7",
+        "vs_prev": "\u2014",
+        "added": 0,
+        "removed": 0,
+        "nbytes": 49922,
+        "kind": "ipynb"
+      },
+      {
+        "version": 2,
+        "score": "8.308",
+        "codehash": "34b30f3dcd",
+        "vs_prev": "CHANGED",
+        "added": 1,
+        "removed": 1,
+        "nbytes": 49924,
+        "kind": "ipynb"
+      },
+      {
+        "version": 3,
+        "score": "8.290",
+        "codehash": "c980b0e1b4",
+        "vs_prev": "CHANGED",
+        "added": 1,
+        "removed": 1,
+        "nbytes": 49924,
+        "kind": "ipynb"
+      },
+      {
+        "version": 4,
+        "score": "8.252",
+        "codehash": "a075cf0dab",
+        "vs_prev": "CHANGED",
+        "added": 2,
+        "removed": 2,
+        "nbytes": 49922,
+        "kind": "ipynb"
+      },
+      {
+        "version": 5,
+        "score": "8.125",
+        "codehash": "24d2f0ef33",
+        "vs_prev": "CHANGED",
+        "added": 1,
+        "removed": 1,
+        "nbytes": 49922,
+        "kind": "ipynb"
+      },
+      {
+        "version": 6,
+        "score": "7.946",
+        "codehash": "e4e32f075a",
+        "vs_prev": "CHANGED",
+        "added": 1,
+        "removed": 1,
+        "nbytes": 49922,
+        "kind": "ipynb"
+      }
+    ],
+    "dwt": [
+      {
+        "version": 1,
+        "score": "9.631",
+        "codehash": "c337477a9e",
+        "vs_prev": "\u2014",
+        "added": 0,
+        "removed": 0,
+        "nbytes": 51068,
+        "kind": "ipynb"
+      },
+      {
+        "version": 2,
+        "score": "9.632",
+        "codehash": "c337477a9e",
+        "vs_prev": "IDENTICAL rerun",
+        "added": 0,
+        "removed": 0,
+        "nbytes": 51068,
+        "kind": "ipynb"
+      },
+      {
+        "version": 3,
+        "score": "9.251",
+        "codehash": "c337477a9e",
+        "vs_prev": "IDENTICAL rerun",
+        "added": 0,
+        "removed": 0,
+        "nbytes": 51068,
+        "kind": "ipynb"
+      },
+      {
+        "version": 4,
+        "score": "9.395",
+        "codehash": "c337477a9e",
+        "vs_prev": "IDENTICAL rerun",
+        "added": 0,
+        "removed": 0,
+        "nbytes": 51068,
+        "kind": "ipynb"
+      }
+    ],
+    "xgb_starter": [
+      {
+        "version": 1,
+        "score": "19.047",
+        "codehash": "94c4fec067",
+        "vs_prev": "\u2014",
+        "added": 0,
+        "removed": 0,
+        "nbytes": 15053,
+        "kind": "ipynb"
+      },
+      {
+        "version": 3,
+        "score": "14.336",
+        "codehash": "2e3ae7ac5d",
+        "vs_prev": "CHANGED",
+        "added": 4,
+        "removed": 4,
+        "nbytes": 15066,
+        "kind": "ipynb"
+      }
+    ]
+  },
+  "score_only": {
+    "pilkwang_geo": [
+      {
+        "version": 1,
+        "score": "8.004"
+      },
+      {
+        "version": 2,
+        "score": "8.249"
+      },
+      {
+        "version": 3,
+        "score": "8.394"
+      },
+      {
+        "version": 4,
+        "score": "7.905"
+      },
+      {
+        "version": 5,
+        "score": "8.200"
+      },
+      {
+        "version": 6,
+        "score": "7.881"
+      },
+      {
+        "version": 7,
+        "score": "8.031"
+      },
+      {
+        "version": 8,
+        "score": "7.748"
+      },
+      {
+        "version": 9,
+        "score": null
+      },
+      {
+        "version": 10,
+        "score": "7.937"
+      },
+      {
+        "version": 11,
+        "score": "7.837"
+      },
+      {
+        "version": 12,
+        "score": "7.747"
+      },
+      {
+        "version": 13,
+        "score": "7.897"
+      },
+      {
+        "version": 14,
+        "score": "7.823"
+      },
+      {
+        "version": 15,
+        "score": "7.713"
+      },
+      {
+        "version": 16,
+        "score": "7.574"
+      },
+      {
+        "version": 17,
+        "score": "7.595"
+      },
+      {
+        "version": 18,
+        "score": "7.640"
+      },
+      {
+        "version": 19,
+        "score": "7.610"
+      },
+      {
+        "version": 20,
+        "score": "7.559"
+      },
+      {
+        "version": 21,
+        "score": "7.564"
+      },
+      {
+        "version": 22,
+        "score": "7.589"
+      },
+      {
+        "version": 23,
+        "score": "7.611"
+      },
+      {
+        "version": 24,
+        "score": "7.608"
+      },
+      {
+        "version": 25,
+        "score": "7.555"
+      },
+      {
+        "version": 26,
+        "score": "7.618"
+      },
+      {
+        "version": 27,
+        "score": "7.594"
+      },
+      {
+        "version": 28,
+        "score": "7.574"
+      },
+      {
+        "version": 29,
+        "score": null
+      },
+      {
+        "version": 30,
+        "score": "7.567"
+      },
+      {
+        "version": 31,
+        "score": "7.635"
+      },
+      {
+        "version": 32,
+        "score": "7.580"
+      },
+      {
+        "version": 33,
+        "score": "7.607"
+      },
+      {
+        "version": 34,
+        "score": "7.690"
+      },
+      {
+        "version": 35,
+        "score": "7.710"
+      },
+      {
+        "version": 36,
+        "score": "7.501"
+      },
+      {
+        "version": 37,
+        "score": "7.540"
+      },
+      {
+        "version": 38,
+        "score": "7.618"
+      },
+      {
+        "version": 39,
+        "score": "7.543"
+      },
+      {
+        "version": 40,
+        "score": "7.669"
+      },
+      {
+        "version": 41,
+        "score": "7.601"
+      },
+      {
+        "version": 42,
+        "score": "7.584"
+      }
+    ],
+    "degnon7159": [
+      {
+        "version": 1,
+        "score": null
+      },
+      {
+        "version": 2,
+        "score": "9.447"
+      },
+      {
+        "version": 3,
+        "score": "9.741"
+      },
+      {
+        "version": 4,
+        "score": "9.208"
+      },
+      {
+        "version": 5,
+        "score": "7.574"
+      },
+      {
+        "version": 6,
+        "score": "7.207"
+      },
+      {
+        "version": 7,
+        "score": null
+      },
+      {
+        "version": 8,
+        "score": null
+      },
+      {
+        "version": 9,
+        "score": "3459.018"
+      },
+      {
+        "version": 10,
+        "score": null
+      },
+      {
+        "version": 11,
+        "score": "12.920"
+      },
+      {
+        "version": 12,
+        "score": null
+      },
+      {
+        "version": 13,
+        "score": null
+      },
+      {
+        "version": 14,
+        "score": null
+      },
+      {
+        "version": 15,
+        "score": null
+      },
+      {
+        "version": 16,
+        "score": "7.159"
+      },
+      {
+        "version": 17,
+        "score": null
+      },
+      {
+        "version": 18,
+        "score": null
+      }
+    ]
+  },
+  "deps": {
+    "dwt": {
+      "datasets": [
+        "ravaghi/wellbore-geology-prediction-artifacts"
+      ],
+      "kernel_sources": [
+        "packagemanager(auto)"
+      ]
+    },
+    "rebuild7295": {
+      "datasets": [
+        "phongnguyn23021656/koolbox-offline",
+        "fleongg/rogii-claude-models-pub",
+        "ravaghi/wellbore-geology-prediction-artifacts"
+      ],
+      "kernel_sources": []
+    },
+    "dualpipe_blend": {
+      "datasets": [
+        "phongnguyn23021656/koolbox-offline",
+        "fleongg/rogii-claude-models-pub",
+        "ravaghi/wellbore-geology-prediction-artifacts"
+      ],
+      "kernel_sources": []
+    },
+    "dualpipe_sv": {
+      "datasets": [
+        "phongnguyn23021656/koolbox-offline",
+        "fleongg/rogii-claude-models-pub",
+        "ravaghi/wellbore-geology-prediction-artifacts"
+      ],
+      "kernel_sources": [],
+      "fork_of": "pixiux/rogii-dual-pipeline-blend@v3"
+    },
+    "ridge": {
+      "datasets": [
+        "ravaghi/wellbore-geology-prediction-artifacts"
+      ],
+      "kernel_sources": [
+        "packagemanager(auto)"
+      ]
+    },
+    "xgb_starter": {
+      "datasets": [],
+      "kernel_sources": []
+    },
+    "pilkwang_geo": {
+      "datasets": [
+        "pilkwang/rogii-model-package",
+        "fleongg/rogii-claude-models-pub",
+        "ravaghi/wellbore-geology-prediction-artifacts"
+      ],
+      "kernel_sources": [
+        "packagemanager(auto)"
+      ]
+    },
+    "degnon7159": {
+      "datasets": [
+        "phongnguyn23021656/koolbox-offline",
+        "nina2025/rogii-03",
+        "thbdh5765/rogii-v10-fresh-artifacts",
+        "fleongg/rogii-claude-models-pub",
+        "needless090/rogii-tabicl-mirror",
+        "ravaghi/wellbore-geology-prediction-artifacts"
+      ],
+      "kernel_sources": [
+        "packagemanager(auto)"
+      ]
+    }
+  },
+  "dataset_versions": {
+    "ravaghi/wellbore-geology-prediction-artifacts": {
+      "ver": 6,
+      "gb": 2.36,
+      "updated": "2026-06-04"
+    },
+    "fleongg/rogii-claude-models-pub": {
+      "ver": 1,
+      "gb": 0.01,
+      "updated": "2026-06-07"
+    },
+    "phongnguyn23021656/koolbox-offline": {
+      "ver": 1,
+      "gb": 0.05,
+      "updated": "2025-12-05"
+    },
+    "pilkwang/rogii-model-package": {
+      "ver": 9,
+      "gb": 0.22,
+      "updated": "2026-05-31"
+    },
+    "nina2025/rogii-03": {
+      "ver": 5,
+      "gb": 0.004,
+      "updated": "2026-06-02"
+    },
+    "thbdh5765/rogii-v10-fresh-artifacts": {
+      "ver": 1,
+      "gb": 0.41,
+      "updated": "2026-05-11"
+    },
+    "needless090/rogii-tabicl-mirror": {
+      "ver": 1,
+      "gb": 0.11,
+      "updated": "2026-05-09"
+    }
+  },
+  "leaderboard_top": 5.262,
+  "fetch_date": "2026-07-03"
+}

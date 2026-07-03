@@ -1,0 +1,30 @@
+{
+  "owner_slug": "cdeotte",
+  "kernel_slug": "xgb-starter-cv-15",
+  "versions": [
+    {
+      "version_number": 1,
+      "title": "XGB Starter",
+      "status": "COMPLETE",
+      "date_created": "2026-05-05T17:05:26.540Z",
+      "public_lb": "19.047",
+      "public_lb_numeric": 19.047
+    },
+    {
+      "version_number": 2,
+      "title": "XGB Starter",
+      "status": "COMPLETE",
+      "date_created": "2026-05-05T17:26:50.067Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 3,
+      "title": "XGB Starter - [CV 15]",
+      "status": "COMPLETE",
+      "date_created": "2026-05-06T03:21:05.777Z",
+      "public_lb": "14.336",
+      "public_lb_numeric": 14.336
+    }
+  ]
+}

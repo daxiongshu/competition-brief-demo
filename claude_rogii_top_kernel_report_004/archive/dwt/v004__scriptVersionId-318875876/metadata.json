@@ -1,0 +1,64 @@
+{
+  "kernel_slug": "9-251-rogii-wellbore-geology-prediction-dwt-based",
+  "owner_slug": "nihilisticneuralnet",
+  "selected_version": {
+    "best_submission_score_for_kernel": {
+      "kernelSessionUrl": "/code/nihilisticneuralnet/9-251-rogii-wellbore-geology-prediction-dwt-based?scriptVersionId=318875862",
+      "kernelVersionName": "Version 2",
+      "kernelVersionNumber": 3,
+      "scoreFormatted": "9.251"
+    },
+    "date_created": "2026-05-13T06:30:45.330Z",
+    "kernel_id": 119017611,
+    "kernel_session_id": 318875876,
+    "kernel_slug": "9-251-rogii-wellbore-geology-prediction-dwt-based",
+    "language": "LANGUAGE_PYTHON",
+    "owner_slug": "nihilisticneuralnet",
+    "public_lb": "9.395",
+    "public_lb_numeric": 9.395,
+    "selection_reason": "explicit version 4",
+    "status": "COMPLETE",
+    "title": "Wellbore Geology Prediction | Hill climbing 17bb04",
+    "version_id": 183922831,
+    "version_name": "Version 2",
+    "version_number": 4
+  },
+  "source": {
+    "bytes": 56112,
+    "path": "/geo/competition-brief-demo/claude_rogii_top_kernel_report_004/archive/dwt/v004__scriptVersionId-318875876/source.ipynb"
+  },
+  "versions": [
+    {
+      "date_created": "2026-05-13T06:14:07.437Z",
+      "public_lb": "9.631",
+      "public_lb_numeric": 9.631,
+      "status": "COMPLETE",
+      "title": "Wellbore Geology Prediction | Hill climbing 17bb04",
+      "version_number": 1
+    },
+    {
+      "date_created": "2026-05-13T06:30:37.970Z",
+      "public_lb": "9.632",
+      "public_lb_numeric": 9.632,
+      "status": "COMPLETE",
+      "title": "Wellbore Geology Prediction | Hill climbing 17bb04",
+      "version_number": 2
+    },
+    {
+      "date_created": "2026-05-13T06:30:42.207Z",
+      "public_lb": "9.251",
+      "public_lb_numeric": 9.251,
+      "status": "COMPLETE",
+      "title": "9.251 ROGII-Wellbore Geology Prediction: DWT-based",
+      "version_number": 3
+    },
+    {
+      "date_created": "2026-05-13T06:30:45.330Z",
+      "public_lb": "9.395",
+      "public_lb_numeric": 9.395,
+      "status": "COMPLETE",
+      "title": "Wellbore Geology Prediction | Hill climbing 17bb04",
+      "version_number": 4
+    }
+  ]
+}

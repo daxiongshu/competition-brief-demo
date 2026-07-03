@@ -1,0 +1,150 @@
+{
+  "owner_slug": "degnonguidi",
+  "kernel_slug": "public-score-rogii-lb-7-159",
+  "versions": [
+    {
+      "version_number": 1,
+      "title": "9.251 ROGII-Wellbore Geology Prediction: DWT-based",
+      "status": "COMPLETE",
+      "date_created": "2026-05-13T12:33:59.397Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 2,
+      "title": "9.251 ROGII-Wellbore Geology Prediction: DWT-based",
+      "status": "COMPLETE",
+      "date_created": "2026-05-13T12:51:27.960Z",
+      "public_lb": "9.447",
+      "public_lb_numeric": 9.447
+    },
+    {
+      "version_number": 3,
+      "title": "9.251 ROGII-Wellbore Geology Prediction: DWT-based",
+      "status": "COMPLETE",
+      "date_created": "2026-05-17T16:10:24.047Z",
+      "public_lb": "9.741",
+      "public_lb_numeric": 9.741
+    },
+    {
+      "version_number": 4,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "COMPLETE",
+      "date_created": "2026-05-20T16:56:33.937Z",
+      "public_lb": "9.208",
+      "public_lb_numeric": 9.208
+    },
+    {
+      "version_number": 5,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "COMPLETE",
+      "date_created": "2026-06-18T20:39:13.633Z",
+      "public_lb": "7.574",
+      "public_lb_numeric": 7.574
+    },
+    {
+      "version_number": 6,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "COMPLETE",
+      "date_created": "2026-06-19T12:17:07.987Z",
+      "public_lb": "7.207",
+      "public_lb_numeric": 7.207
+    },
+    {
+      "version_number": 7,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "CANCEL_ACKNOWLEDGED",
+      "date_created": "2026-06-20T17:01:11.477Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 8,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "CANCEL_ACKNOWLEDGED",
+      "date_created": "2026-06-20T17:19:17.690Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 9,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "COMPLETE",
+      "date_created": "2026-06-20T17:19:49.310Z",
+      "public_lb": "3459.018",
+      "public_lb_numeric": 3459.018
+    },
+    {
+      "version_number": 10,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "ERROR",
+      "date_created": "2026-06-20T18:16:16.753Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 11,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "COMPLETE",
+      "date_created": "2026-06-20T18:27:53.990Z",
+      "public_lb": "12.920",
+      "public_lb_numeric": 12.92
+    },
+    {
+      "version_number": 12,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "ERROR",
+      "date_created": "2026-06-20T19:51:28.880Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 13,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "ERROR",
+      "date_created": "2026-06-20T20:26:57.953Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 14,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "COMPLETE",
+      "date_created": "2026-06-20T20:58:20.820Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 15,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "COMPLETE",
+      "date_created": "2026-06-20T21:42:43.447Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 16,
+      "title": "  Public Score ROGII [LB: 7.159]",
+      "status": "COMPLETE",
+      "date_created": "2026-06-20T23:09:19.927Z",
+      "public_lb": "7.159",
+      "public_lb_numeric": 7.159
+    },
+    {
+      "version_number": 17,
+      "title": " 9.208_ROGII - Wellbore Geology Prediction",
+      "status": "ERROR",
+      "date_created": "2026-06-21T18:00:49.727Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 18,
+      "title": "  Public Score ROGII [LB: 7.159]",
+      "status": "ERROR",
+      "date_created": "2026-06-21T22:50:53.030Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    }
+  ]
+}

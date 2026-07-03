@@ -1,0 +1,22 @@
+[
+  {
+    "version": 1,
+    "score": "19.047",
+    "codehash": "94c4fec067",
+    "vs_prev": "\u2014",
+    "added": 0,
+    "removed": 0,
+    "nbytes": 15053,
+    "kind": "ipynb"
+  },
+  {
+    "version": 3,
+    "score": "14.336",
+    "codehash": "2e3ae7ac5d",
+    "vs_prev": "CHANGED",
+    "added": 4,
+    "removed": 4,
+    "nbytes": 15066,
+    "kind": "ipynb"
+  }
+]

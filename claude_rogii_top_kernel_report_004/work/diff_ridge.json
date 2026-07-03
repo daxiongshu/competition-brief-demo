@@ -1,0 +1,62 @@
+[
+  {
+    "version": 1,
+    "score": "8.129",
+    "codehash": "3f09d191a7",
+    "vs_prev": "\u2014",
+    "added": 0,
+    "removed": 0,
+    "nbytes": 49922,
+    "kind": "ipynb"
+  },
+  {
+    "version": 2,
+    "score": "8.308",
+    "codehash": "34b30f3dcd",
+    "vs_prev": "CHANGED",
+    "added": 1,
+    "removed": 1,
+    "nbytes": 49924,
+    "kind": "ipynb"
+  },
+  {
+    "version": 3,
+    "score": "8.290",
+    "codehash": "c980b0e1b4",
+    "vs_prev": "CHANGED",
+    "added": 1,
+    "removed": 1,
+    "nbytes": 49924,
+    "kind": "ipynb"
+  },
+  {
+    "version": 4,
+    "score": "8.252",
+    "codehash": "a075cf0dab",
+    "vs_prev": "CHANGED",
+    "added": 2,
+    "removed": 2,
+    "nbytes": 49922,
+    "kind": "ipynb"
+  },
+  {
+    "version": 5,
+    "score": "8.125",
+    "codehash": "24d2f0ef33",
+    "vs_prev": "CHANGED",
+    "added": 1,
+    "removed": 1,
+    "nbytes": 49922,
+    "kind": "ipynb"
+  },
+  {
+    "version": 6,
+    "score": "7.946",
+    "codehash": "e4e32f075a",
+    "vs_prev": "CHANGED",
+    "added": 1,
+    "removed": 1,
+    "nbytes": 49922,
+    "kind": "ipynb"
+  }
+]

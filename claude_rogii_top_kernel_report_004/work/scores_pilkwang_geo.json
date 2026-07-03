@@ -1,0 +1,342 @@
+{
+  "owner_slug": "pilkwang",
+  "kernel_slug": "rogii-target-free-tvt-geosteering",
+  "versions": [
+    {
+      "version_number": 1,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-06T07:36:07.430Z",
+      "public_lb": "8.004",
+      "public_lb_numeric": 8.004
+    },
+    {
+      "version_number": 2,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-06T21:26:53.113Z",
+      "public_lb": "8.249",
+      "public_lb_numeric": 8.249
+    },
+    {
+      "version_number": 3,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-06T21:28:55.203Z",
+      "public_lb": "8.394",
+      "public_lb_numeric": 8.394
+    },
+    {
+      "version_number": 4,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-07T04:08:46.593Z",
+      "public_lb": "7.905",
+      "public_lb_numeric": 7.905
+    },
+    {
+      "version_number": 5,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-07T04:08:56.017Z",
+      "public_lb": "8.200",
+      "public_lb_numeric": 8.2
+    },
+    {
+      "version_number": 6,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-07T07:05:27.760Z",
+      "public_lb": "7.881",
+      "public_lb_numeric": 7.881
+    },
+    {
+      "version_number": 7,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-07T20:21:04.710Z",
+      "public_lb": "8.031",
+      "public_lb_numeric": 8.031
+    },
+    {
+      "version_number": 8,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-07T20:21:27.040Z",
+      "public_lb": "7.748",
+      "public_lb_numeric": 7.748
+    },
+    {
+      "version_number": 9,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-07T20:24:51.390Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 10,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-07T20:25:00.213Z",
+      "public_lb": "7.937",
+      "public_lb_numeric": 7.937
+    },
+    {
+      "version_number": 11,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-08T09:06:30.837Z",
+      "public_lb": "7.837",
+      "public_lb_numeric": 7.837
+    },
+    {
+      "version_number": 12,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-08T09:06:54.423Z",
+      "public_lb": "7.747",
+      "public_lb_numeric": 7.747
+    },
+    {
+      "version_number": 13,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-08T21:22:53.120Z",
+      "public_lb": "7.897",
+      "public_lb_numeric": 7.897
+    },
+    {
+      "version_number": 14,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-08T21:23:14.430Z",
+      "public_lb": "7.823",
+      "public_lb_numeric": 7.823
+    },
+    {
+      "version_number": 15,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-08T21:23:57.223Z",
+      "public_lb": "7.713",
+      "public_lb_numeric": 7.713
+    },
+    {
+      "version_number": 16,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-09T05:42:55.610Z",
+      "public_lb": "7.574",
+      "public_lb_numeric": 7.574
+    },
+    {
+      "version_number": 17,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-09T05:43:13.313Z",
+      "public_lb": "7.595",
+      "public_lb_numeric": 7.595
+    },
+    {
+      "version_number": 18,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-09T12:34:23.563Z",
+      "public_lb": "7.640",
+      "public_lb_numeric": 7.64
+    },
+    {
+      "version_number": 19,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-09T12:34:35.637Z",
+      "public_lb": "7.610",
+      "public_lb_numeric": 7.61
+    },
+    {
+      "version_number": 20,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-09T12:35:02.070Z",
+      "public_lb": "7.559",
+      "public_lb_numeric": 7.559
+    },
+    {
+      "version_number": 21,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-10T06:19:35.047Z",
+      "public_lb": "7.564",
+      "public_lb_numeric": 7.564
+    },
+    {
+      "version_number": 22,
+      "title": "ROGII Ridge Artifact Parameter Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-10T06:19:47.920Z",
+      "public_lb": "7.589",
+      "public_lb_numeric": 7.589
+    },
+    {
+      "version_number": 23,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-10T20:24:31.467Z",
+      "public_lb": "7.611",
+      "public_lb_numeric": 7.611
+    },
+    {
+      "version_number": 24,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-10T20:24:48.407Z",
+      "public_lb": "7.608",
+      "public_lb_numeric": 7.608
+    },
+    {
+      "version_number": 25,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-10T20:25:01.487Z",
+      "public_lb": "7.555",
+      "public_lb_numeric": 7.555
+    },
+    {
+      "version_number": 26,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-11T09:15:08.010Z",
+      "public_lb": "7.618",
+      "public_lb_numeric": 7.618
+    },
+    {
+      "version_number": 27,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-11T09:15:29.420Z",
+      "public_lb": "7.594",
+      "public_lb_numeric": 7.594
+    },
+    {
+      "version_number": 28,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-11T21:25:05.650Z",
+      "public_lb": "7.574",
+      "public_lb_numeric": 7.574
+    },
+    {
+      "version_number": 29,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-11T21:25:22.993Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 30,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-11T21:26:25.117Z",
+      "public_lb": "7.567",
+      "public_lb_numeric": 7.567
+    },
+    {
+      "version_number": 31,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-12T08:13:03.333Z",
+      "public_lb": "7.635",
+      "public_lb_numeric": 7.635
+    },
+    {
+      "version_number": 32,
+      "title": "ROGII Ridge PF blend + Model Package Experiments",
+      "status": "COMPLETE",
+      "date_created": "2026-06-12T08:13:18.303Z",
+      "public_lb": "7.580",
+      "public_lb_numeric": 7.58
+    },
+    {
+      "version_number": 33,
+      "title": "\ud83e\udded ROGII Target-Free TVT Geosteering",
+      "status": "COMPLETE",
+      "date_created": "2026-06-12T08:13:30.333Z",
+      "public_lb": "7.607",
+      "public_lb_numeric": 7.607
+    },
+    {
+      "version_number": 34,
+      "title": "\ud83e\udded ROGII Target-Free TVT Geosteering",
+      "status": "COMPLETE",
+      "date_created": "2026-06-12T21:54:31.350Z",
+      "public_lb": "7.690",
+      "public_lb_numeric": 7.69
+    },
+    {
+      "version_number": 35,
+      "title": "\ud83e\udded ROGII Target-Free TVT Geosteering",
+      "status": "COMPLETE",
+      "date_created": "2026-06-12T21:56:07.230Z",
+      "public_lb": "7.710",
+      "public_lb_numeric": 7.71
+    },
+    {
+      "version_number": 36,
+      "title": "\ud83e\udded ROGII Target-Free TVT Geosteering",
+      "status": "COMPLETE",
+      "date_created": "2026-06-12T22:08:33.930Z",
+      "public_lb": "7.501",
+      "public_lb_numeric": 7.501
+    },
+    {
+      "version_number": 37,
+      "title": "\ud83e\udded ROGII Target-Free TVT Geosteering",
+      "status": "COMPLETE",
+      "date_created": "2026-06-13T05:37:54.487Z",
+      "public_lb": "7.540",
+      "public_lb_numeric": 7.54
+    },
+    {
+      "version_number": 38,
+      "title": "\ud83e\udded ROGII Target-Free TVT Geosteering",
+      "status": "COMPLETE",
+      "date_created": "2026-06-13T05:38:05.870Z",
+      "public_lb": "7.618",
+      "public_lb_numeric": 7.618
+    },
+    {
+      "version_number": 39,
+      "title": "\ud83e\udded ROGII Target-Free TVT Geosteering",
+      "status": "COMPLETE",
+      "date_created": "2026-06-13T21:56:53.817Z",
+      "public_lb": "7.543",
+      "public_lb_numeric": 7.543
+    },
+    {
+      "version_number": 40,
+      "title": "\ud83e\udded ROGII Target-Free TVT Geosteering",
+      "status": "COMPLETE",
+      "date_created": "2026-06-13T21:57:53.517Z",
+      "public_lb": "7.669",
+      "public_lb_numeric": 7.669
+    },
+    {
+      "version_number": 41,
+      "title": "\ud83e\udded ROGII Target-Free TVT Geosteering",
+      "status": "COMPLETE",
+      "date_created": "2026-06-13T22:17:32.883Z",
+      "public_lb": "7.601",
+      "public_lb_numeric": 7.601
+    },
+    {
+      "version_number": 42,
+      "title": "\ud83e\udded ROGII Target-Free TVT Geosteering",
+      "status": "COMPLETE",
+      "date_created": "2026-06-13T22:17:55.330Z",
+      "public_lb": "7.584",
+      "public_lb_numeric": 7.584
+    }
+  ]
+}

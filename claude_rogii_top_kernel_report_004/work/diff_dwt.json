@@ -1,0 +1,42 @@
+[
+  {
+    "version": 1,
+    "score": "9.631",
+    "codehash": "c337477a9e",
+    "vs_prev": "\u2014",
+    "added": 0,
+    "removed": 0,
+    "nbytes": 51068,
+    "kind": "ipynb"
+  },
+  {
+    "version": 2,
+    "score": "9.632",
+    "codehash": "c337477a9e",
+    "vs_prev": "IDENTICAL rerun",
+    "added": 0,
+    "removed": 0,
+    "nbytes": 51068,
+    "kind": "ipynb"
+  },
+  {
+    "version": 3,
+    "score": "9.251",
+    "codehash": "c337477a9e",
+    "vs_prev": "IDENTICAL rerun",
+    "added": 0,
+    "removed": 0,
+    "nbytes": 51068,
+    "kind": "ipynb"
+  },
+  {
+    "version": 4,
+    "score": "9.395",
+    "codehash": "c337477a9e",
+    "vs_prev": "IDENTICAL rerun",
+    "added": 0,
+    "removed": 0,
+    "nbytes": 51068,
+    "kind": "ipynb"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "kernel_slug": "rogii-lb7295-public-rebuild",
+  "owner_slug": "bernubritz",
+  "selected_version": {
+    "best_submission_score_for_kernel": {
+      "kernelSessionUrl": "/code/bernubritz/rogii-lb7295-public-rebuild?scriptVersionId=328608078",
+      "kernelVersionNumber": 1,
+      "scoreFormatted": "7.153"
+    },
+    "date_created": "2026-06-23T06:30:23.557Z",
+    "kernel_id": 123854507,
+    "kernel_session_id": 329689489,
+    "kernel_slug": "rogii-lb7295-public-rebuild",
+    "language": "LANGUAGE_PYTHON",
+    "owner_slug": "bernubritz",
+    "public_lb": "7.302",
+    "public_lb_numeric": 7.302,
+    "selection_reason": "explicit version 3",
+    "status": "COMPLETE",
+    "title": "ROGII LB7295 Public Rebuild",
+    "version_id": 193638317,
+    "version_name": null,
+    "version_number": 3
+  },
+  "source": {
+    "bytes": 154245,
+    "path": "/geo/competition-brief-demo/claude_rogii_top_kernel_report_004/archive/rebuild7295/v003__scriptVersionId-329689489/source.ipynb"
+  },
+  "versions": [
+    {
+      "date_created": "2026-06-19T10:49:24.620Z",
+      "public_lb": "7.153",
+      "public_lb_numeric": 7.153,
+      "status": "COMPLETE",
+      "title": "ROGII LB7295 Public Rebuild",
+      "version_number": 1
+    },
+    {
+      "date_created": "2026-06-20T12:18:49.943Z",
+      "public_lb": null,
+      "public_lb_numeric": null,
+      "status": "COMPLETE",
+      "title": "ROGII LB7295 Public Rebuild",
+      "version_number": 2
+    },
+    {
+      "date_created": "2026-06-23T06:30:23.557Z",
+      "public_lb": "7.302",
+      "public_lb_numeric": 7.302,
+      "status": "COMPLETE",
+      "title": "ROGII LB7295 Public Rebuild",
+      "version_number": 3
+    }
+  ]
+}

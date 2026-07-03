@@ -1,0 +1,7 @@
+ravaghi/wellbore-geology-prediction-artifacts: ver=6 updated=2026-06-04 14:39:56.717000 sizeGB=2.36
+fleongg/rogii-claude-models-pub: ver=1 updated=2026-06-07 19:21:25.580000 sizeGB=0.01
+phongnguyn23021656/koolbox-offline: ver=1 updated=2025-12-05 02:34:36.197000 sizeGB=0.05
+pilkwang/rogii-model-package: ver=9 updated=2026-05-31 22:19:10.973000 sizeGB=0.22
+nina2025/rogii-03: ver=5 updated=2026-06-02 10:04:42.297000 sizeGB=0.00
+thbdh5765/rogii-v10-fresh-artifacts: ver=1 updated=2026-05-11 20:09:16.820000 sizeGB=0.41
+needless090/rogii-tabicl-mirror: ver=1 updated=2026-05-09 07:32:35.340000 sizeGB=0.11

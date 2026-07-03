@@ -1,0 +1,55 @@
+{
+  "kernel_slug": "xgb-starter-cv-15",
+  "owner_slug": "cdeotte",
+  "selected_version": {
+    "best_submission_score_for_kernel": {
+      "kernelSessionUrl": "/code/cdeotte/xgb-starter-cv-15?scriptVersionId=316948033",
+      "kernelVersionNumber": 3,
+      "scoreFormatted": "14.336"
+    },
+    "date_created": "2026-05-06T03:21:05.777Z",
+    "kernel_id": 117996285,
+    "kernel_session_id": 316948033,
+    "kernel_slug": "xgb-starter-cv-15",
+    "language": "LANGUAGE_PYTHON",
+    "owner_slug": "cdeotte",
+    "public_lb": "14.336",
+    "public_lb_numeric": 14.336,
+    "selection_reason": "explicit version 3",
+    "status": "COMPLETE",
+    "title": "XGB Starter - [CV 15]",
+    "version_id": 182405233,
+    "version_name": null,
+    "version_number": 3
+  },
+  "source": {
+    "bytes": 28443,
+    "path": "/geo/competition-brief-demo/claude_rogii_top_kernel_report_004/archive/xgb_starter/v003__scriptVersionId-316948033/source.ipynb"
+  },
+  "versions": [
+    {
+      "date_created": "2026-05-05T17:05:26.540Z",
+      "public_lb": "19.047",
+      "public_lb_numeric": 19.047,
+      "status": "COMPLETE",
+      "title": "XGB Starter",
+      "version_number": 1
+    },
+    {
+      "date_created": "2026-05-05T17:26:50.067Z",
+      "public_lb": null,
+      "public_lb_numeric": null,
+      "status": "COMPLETE",
+      "title": "XGB Starter",
+      "version_number": 2
+    },
+    {
+      "date_created": "2026-05-06T03:21:05.777Z",
+      "public_lb": "14.336",
+      "public_lb_numeric": 14.336,
+      "status": "COMPLETE",
+      "title": "XGB Starter - [CV 15]",
+      "version_number": 3
+    }
+  ]
+}

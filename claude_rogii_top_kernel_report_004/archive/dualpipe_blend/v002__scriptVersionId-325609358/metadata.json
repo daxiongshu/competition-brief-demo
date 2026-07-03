@@ -1,0 +1,55 @@
+{
+  "kernel_slug": "rogii-dual-pipeline-blend",
+  "owner_slug": "pixiux",
+  "selected_version": {
+    "best_submission_score_for_kernel": {
+      "kernelSessionUrl": "/code/pixiux/rogii-dual-pipeline-blend?scriptVersionId=325531884",
+      "kernelVersionNumber": 1,
+      "scoreFormatted": "7.519"
+    },
+    "date_created": "2026-06-09T10:50:52.817Z",
+    "kernel_id": 122121856,
+    "kernel_session_id": 325609358,
+    "kernel_slug": "rogii-dual-pipeline-blend",
+    "language": "LANGUAGE_PYTHON",
+    "owner_slug": "pixiux",
+    "public_lb": "7.560",
+    "public_lb_numeric": 7.56,
+    "selection_reason": "explicit version 2",
+    "status": "COMPLETE",
+    "title": "rogii_dual_pipeline_blend",
+    "version_id": 189396904,
+    "version_name": null,
+    "version_number": 2
+  },
+  "source": {
+    "bytes": 112228,
+    "path": "/geo/competition-brief-demo/claude_rogii_top_kernel_report_004/archive/dualpipe_blend/v002__scriptVersionId-325609358/source.py"
+  },
+  "versions": [
+    {
+      "date_created": "2026-06-09T04:04:10.060Z",
+      "public_lb": "7.519",
+      "public_lb_numeric": 7.519,
+      "status": "COMPLETE",
+      "title": "rogii-sp45-fleongg-blend-v3",
+      "version_number": 1
+    },
+    {
+      "date_created": "2026-06-09T10:50:52.817Z",
+      "public_lb": "7.560",
+      "public_lb_numeric": 7.56,
+      "status": "COMPLETE",
+      "title": "rogii_dual_pipeline_blend",
+      "version_number": 2
+    },
+    {
+      "date_created": "2026-06-10T11:24:55.083Z",
+      "public_lb": "7.559",
+      "public_lb_numeric": 7.559,
+      "status": "COMPLETE",
+      "title": "rogii_dual_pipeline_blend",
+      "version_number": 3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kernel_slug": "rogii-dual-pipeline-self-verifying",
+  "owner_slug": "lightningv08",
+  "selected_version": {
+    "best_submission_score_for_kernel": {
+      "kernelSessionUrl": "/code/lightningv08/rogii-dual-pipeline-self-verifying?scriptVersionId=325951227",
+      "kernelVersionName": "Version 1",
+      "kernelVersionNumber": 1,
+      "scoreFormatted": "7.470"
+    },
+    "date_created": "2026-06-12T20:56:27.010Z",
+    "kernel_id": 122339701,
+    "kernel_session_id": 326717432,
+    "kernel_slug": "rogii-dual-pipeline-self-verifying",
+    "language": "LANGUAGE_PYTHON",
+    "owner_slug": "lightningv08",
+    "public_lb": "7.559",
+    "public_lb_numeric": 7.559,
+    "selection_reason": "explicit version 2",
+    "status": "ERROR",
+    "title": "rogii_dual_pipeline_blend",
+    "version_id": 190571621,
+    "version_name": null,
+    "version_number": 2
+  },
+  "source": {
+    "bytes": 147638,
+    "path": "/geo/competition-brief-demo/claude_rogii_top_kernel_report_004/archive/dualpipe_sv/v002__scriptVersionId-326717432/source.ipynb"
+  },
+  "versions": [
+    {
+      "date_created": "2026-06-10T12:51:38.117Z",
+      "public_lb": "7.470",
+      "public_lb_numeric": 7.47,
+      "status": "COMPLETE",
+      "title": "ROGII Dual Pipeline + Self-Verifying",
+      "version_number": 1
+    },
+    {
+      "date_created": "2026-06-12T20:56:27.010Z",
+      "public_lb": "7.559",
+      "public_lb_numeric": 7.559,
+      "status": "ERROR",
+      "title": "rogii_dual_pipeline_blend",
+      "version_number": 2
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "owner_slug": "ravaghi",
+  "kernel_slug": "wellbore-geology-prediction-ridge",
+  "versions": [
+    {
+      "version_number": 1,
+      "title": "Wellbore Geology Prediction | Ridge",
+      "status": "COMPLETE",
+      "date_created": "2026-06-04T14:48:46.943Z",
+      "public_lb": "8.129",
+      "public_lb_numeric": 8.129
+    },
+    {
+      "version_number": 2,
+      "title": "Wellbore Geology Prediction | Ridge",
+      "status": "COMPLETE",
+      "date_created": "2026-06-04T18:50:12.743Z",
+      "public_lb": "8.308",
+      "public_lb_numeric": 8.308
+    },
+    {
+      "version_number": 3,
+      "title": "Wellbore Geology Prediction | Ridge",
+      "status": "COMPLETE",
+      "date_created": "2026-06-04T18:50:32.287Z",
+      "public_lb": "8.290",
+      "public_lb_numeric": 8.29
+    },
+    {
+      "version_number": 4,
+      "title": "Wellbore Geology Prediction | Ridge",
+      "status": "COMPLETE",
+      "date_created": "2026-06-05T06:37:11.820Z",
+      "public_lb": "8.252",
+      "public_lb_numeric": 8.252
+    },
+    {
+      "version_number": 5,
+      "title": "Wellbore Geology Prediction | Ridge",
+      "status": "COMPLETE",
+      "date_created": "2026-06-05T06:37:19.873Z",
+      "public_lb": "8.125",
+      "public_lb_numeric": 8.125
+    },
+    {
+      "version_number": 6,
+      "title": "Wellbore Geology Prediction | Ridge",
+      "status": "COMPLETE",
+      "date_created": "2026-06-06T02:06:40.623Z",
+      "public_lb": "7.946",
+      "public_lb_numeric": 7.946
+    }
+  ]
+}

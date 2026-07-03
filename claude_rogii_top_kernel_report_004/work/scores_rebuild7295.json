@@ -1,0 +1,30 @@
+{
+  "owner_slug": "bernubritz",
+  "kernel_slug": "rogii-lb7295-public-rebuild",
+  "versions": [
+    {
+      "version_number": 1,
+      "title": "ROGII LB7295 Public Rebuild",
+      "status": "COMPLETE",
+      "date_created": "2026-06-19T10:49:24.620Z",
+      "public_lb": "7.153",
+      "public_lb_numeric": 7.153
+    },
+    {
+      "version_number": 2,
+      "title": "ROGII LB7295 Public Rebuild",
+      "status": "COMPLETE",
+      "date_created": "2026-06-20T12:18:49.943Z",
+      "public_lb": null,
+      "public_lb_numeric": null
+    },
+    {
+      "version_number": 3,
+      "title": "ROGII LB7295 Public Rebuild",
+      "status": "COMPLETE",
+      "date_created": "2026-06-23T06:30:23.557Z",
+      "public_lb": "7.302",
+      "public_lb_numeric": 7.302
+    }
+  ]
+}
